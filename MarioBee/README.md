@@ -1,4 +1,4 @@
-# Mario Bee - Dron FPV "Con Cara y Ojos"
+# Mario Bee
 
 **Mario Bee** es un dron FPV de 5 pulgadas, diseñado con el chasis **Mario 5** en su versión **Deadcat**. Este proyecto fue construido con componentes completamente nuevos de la web de SpeedyBee. Además de su diseño único, este dron destaca por su sistema de transmisión de video y control de vuelo avanzado.
 
