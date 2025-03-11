@@ -37,8 +37,3 @@ El proceso de montaje de **Kandra** consistió en la reutilización de component
 
 ![Kandra en vuelo](./fotos/kandra_vuelo.jpg)
 
-## 🔗 Enlaces de interés
-
-- **Turnigy Evolution**: [Enlace a la emisora](https://www.turnigy.com/)
-- **SpeedyBee F405 V4**: [Enlace al stack](https://www.speedybee.com/)
-- **Runcam**: [Enlace a la cámara Runcam](https://www.runcam.com/)
